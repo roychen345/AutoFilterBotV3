@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/roychen345/AutoFilterBotV3",
+    "website": "https://heroku.com/deploy?template=https://github.com/roychen345/AutoFilterBotV3",
     "repository": "https://github.com/roychen345/AutoFilterBotV3",
     "env": {
         "BOT_TOKEN": {
